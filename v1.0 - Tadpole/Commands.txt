@@ -1,0 +1,35 @@
+WAKE = "hello"
+
+SLEEP = "goodbye"
+
+CONFIRM = "yes"
+
+DENY= "no"
+
+CALENDAR_STRS = ["what do i have", "do i have plans", "am i busy"]
+
+NOTE_STRS = ["make a note","write this down", "remember this"]
+
+REMIND_STRS = ["remind me", "what did i just tell you to note"]
+
+CPU_STRS = ["status report", "diagnostics"]
+
+MUSIC_STRS = ["play music", "play my jams", "play my shit", "what music do I have"]
+
+TIME_STR = ["what time is it", "what's the time"]
+
+DATE_STR = ["what day is it", "what's today"]
+
+WIKI_STR = ["wiki search", "search wikipedia for"]
+
+EMAIL_STR = ["send a letter"]
+
+WEB_STR = ["search the web for", "google search", "check the internet for"]
+
+LOGOUT_STR = ["log out", "lock Up", "chill out"]
+
+SHUTDOWN_STR = ["shut down", "lights out", "goodnight"]
+
+RESTART_STR = ["restart", "reset", "redo","mulligan"]
+
+SCNSHR_STR = ["screenshot this", "shoot the screen", "take a picture"]
